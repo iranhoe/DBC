@@ -17,6 +17,7 @@
 namespace DBC
 {
     using System;
+
     /// <summary>
     /// Class used to validate parameters in the methods that must follow the contact.
     /// </summary>
