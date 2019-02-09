@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net462;net461;net46;net45;net40</TargetFrameworks>
+    <Authors>Iran Corrales Becerra</Authors>
+    <Product>Design By Contract .NET Library (DBC)</Product>
+    <Description>Library representing the desing by contract programing such as precondition, postconditions, and object invariants</Description>
+    <Copyright></Copyright>
+    <PackageLicenseUrl>https://www.gnu.org/licenses/gpl.html</PackageLicenseUrl>
+    <RepositoryType>GIT</RepositoryType>
+    <PackageTags>DBC Contract</PackageTags>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="LICENSE.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
