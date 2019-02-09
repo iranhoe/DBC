@@ -15,6 +15,7 @@
     <PackageProjectUrl>https://github.com/iranhoe/DBC</PackageProjectUrl>
     <RepositoryUrl>https://github.com/iranhoe/DBC</RepositoryUrl>
     <Version>1.0.0.2</Version>
+    <PackageIconUrl>https://raw.githubusercontent.com/iranhoe/DBC/master/splogo.ico</PackageIconUrl>
   </PropertyGroup>
 
   <ItemGroup>
