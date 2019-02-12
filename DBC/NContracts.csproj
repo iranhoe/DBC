@@ -5,18 +5,18 @@
     <Authors>Iran Corrales Becerra</Authors>
     <Product>Design By Contract .NET Library (DBC)</Product>
     <Description>Library representing the desing by contract programing such as precondition, postconditions, and object invariants</Description>
-    <Copyright>DBC Library Copyright (C) 2019  Iran Corrales Becerra</Copyright>
+    <Copyright>NContracts Library Copyright (C) 2019  Iran Corrales Becerra</Copyright>
     <PackageLicenseUrl>https://github.com/iranhoe/DBC/blob/master/LICENSE.txt</PackageLicenseUrl>
     <RepositoryType>GIT</RepositoryType>
-    <PackageTags>DBC Contract</PackageTags>
+    <PackageTags>DBC DesignByContracts Contracts</PackageTags>
     <NeutralLanguage>en-US</NeutralLanguage>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageProjectUrl>https://github.com/iranhoe/DBC</PackageProjectUrl>
     <RepositoryUrl>https://github.com/iranhoe/DBC</RepositoryUrl>
-    <Version>1.0.0.4</Version>
+    <Version>1.0.0.0</Version>
     <PackageIconUrl>https://raw.githubusercontent.com/iranhoe/DBC/master/splogo.ico</PackageIconUrl>
-    <PackageId>DBContracts</PackageId>
+    <PackageId>NContracts</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
